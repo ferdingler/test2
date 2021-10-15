@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.3.0",
     "date-fns": "^2.23.0",
     "framer-motion": "^4.1.17",
-    "next": "11.1.0",
+    "next": "11.1.3-canary.70",
     "plaiceholder": "^2.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
