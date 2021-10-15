@@ -1,6 +1,5 @@
 module.exports = {
   reactStrictMode: true,
-  target: 'experimental-serverless-trace',
   images: {
     domains: ['user-images.githubusercontent.com', 'images.unsplash.com'],
   },
